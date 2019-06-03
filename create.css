@@ -1,0 +1,22 @@
+.row{
+  width: 50%;
+  height:100%;
+display: inline-block;
+}
+
+
+.col{
+  height:100%;
+  width:50%;
+display: inline-block;
+}
+
+iframe{
+  float: left;
+}
+
+html{
+  background-image: url("https://cdn4.vectorstock.com/i/1000x1000/98/33/neon-city-fireworks-vector-21959833.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
